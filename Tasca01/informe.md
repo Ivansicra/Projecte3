@@ -38,7 +38,7 @@ Davant d’aquest escenari, la Direcció considera imprescindible **adoptar una 
 ## 🔍 Alternatives Analitzades
 
 ### **Bitwarden (Model Online / Núvol)**
-![Bitwarden logo](https://raw.githubusercontent.com/tu-usuari/tu-repo/main/img/bitwarden.png)
+![Captura 1](img/logo.png)
 
 - **Sincronització:** Automàtica entre dispositius via núvol  
 - **Seguretat:** Xifratge end-to-end amb AES-256 i derivació de claus PBKDF2-SHA-256  
