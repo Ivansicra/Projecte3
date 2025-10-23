@@ -3,7 +3,7 @@ Alerta!! EverPia ha estat atacada per ciberdelinqüents. La consultora on esteu 
 La investigació interna ha revelat que un dels comptes tècnics va ser compromès a causa de l'ús d'una contrasenya feble o reutilitzada.
 Com a resposta a aquesta crisi, la Direcció Tècnica ha emès una directriu: tot el personal tècnic ha de començar a utilitzar un gestor de contrasenyes validat per garantir l'ús de credencials úniques i robustes. Se us encarrega la tasca d'avaluar les opcions i crear la documentació necessària per a la formació del personal.
 
-![rana pepe](https://www.google.com/imgres?q=pia%20mataro%20fp&imgurl=http%3A%2F%2Fmataro.escolapia.cat%2Fwp-content%2Fuploads%2F2024%2F09%2Flogo-fp-nou.png&imgrefurl=http%3A%2F%2Fmataro.escolapia.cat%2F2024%2F09%2F12%2Fplaces-vacants-als-cicles-formatius%2Flogo-fp-nou-3%2F&docid=R0zuO2igV7OXZM&tbnid=vvAMHVngxfcv-M&vet=12ahUKEwiwpMqgz7qQAxWHdqQEHbt3ECsQM3oECBQQAA..i&w=1181&h=1181&hcb=2&ved=2ahUKEwiwpMqgz7qQAxWHdqQEHbt3ECsQM3oECBQQAA&safe=active&ssui=on)
+
 # Fase 1: Anàlisi i Justificació (Document d'Informe)
 Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
 Introducció i Justificació:
