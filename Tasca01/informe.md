@@ -1,4 +1,5 @@
 # CFGM Sistemes Microinformàtics i Xarxes  
+![Captura 1](img/logo.png)
 ## T05: Anàlisi de l’entorn  
 ### Possibles models de negoci pels clients tecnològics de la consultoria — FASE 1
 
@@ -38,7 +39,6 @@ Davant d’aquest escenari, la Direcció considera imprescindible **adoptar una 
 ## 🔍 Alternatives Analitzades
 
 ### **Bitwarden (Model Online / Núvol)**
-![Captura 1](img/logo.png)
 
 - **Sincronització:** Automàtica entre dispositius via núvol  
 - **Seguretat:** Xifratge end-to-end amb AES-256 i derivació de claus PBKDF2-SHA-256  
