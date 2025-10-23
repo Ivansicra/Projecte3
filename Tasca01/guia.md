@@ -106,7 +106,7 @@ Aquesta mesura garanteix la **confidencialitat i seguretat** de les còpies de s
 
 ![Captura 1](img/18.png)
 ![Captura 1](img/19.png)
-![Captura 1](img/10.png)
+![Captura 1](img/20.png)
 
 ---
 
