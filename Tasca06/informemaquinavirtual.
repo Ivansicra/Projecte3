@@ -1,4 +1,4 @@
-1. Configuro dos ports de xarxa, un principal en “NAT”, i un secundari en “Pont”.
+#1. Configuro dos ports de xarxa, un principal en “NAT”, i un secundari en “Pont”.
 ![Captura 1](img/logo.png)
 2. Apago el ethernet via “NAT” i activo el “Pont”.
 ![Captura 2](img/1.png)
