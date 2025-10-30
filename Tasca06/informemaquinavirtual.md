@@ -2,7 +2,7 @@
 ![Captura 1](img/1.png)
 
 
-## 2. Apago el ethernet via “NAT” i activo el “Pont”.
+## 2. Activo el port ethernet “Pont”.
 ![Captura 2](img/2.png)
 
 
@@ -11,7 +11,7 @@
 
 
 ## 4. Comprovo la connexió.
-![Captura 4](img/3.png)
+![Captura 4](img/10.png)
 
 
 ## 5. Faig una consulta amb la comanda “dig”:
