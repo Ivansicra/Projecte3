@@ -17,18 +17,22 @@
 ## 5. Faig una consulta amb la comanda “dig”:
 
 5.1. Consulta bàsica de registre: “A”
+
 ![Captura 5](img/3.png)
 
 
 5.2. Consulta de servidor de noms: “NS”
+
 ![Captura 6](img/4.png)
 
 
 5.3. Consulta detallada: “SOA”
+
 ![Captura 7](img/5.png)
 
 
 5.4. Consulta resolució inversa.
+
 ![Captura 8](img/6.png)
 
 
