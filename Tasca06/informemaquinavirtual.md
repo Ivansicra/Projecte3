@@ -7,7 +7,7 @@
 
 
 ## 3. Configuro IP i màscara.
-![Captura 3](img/.png)
+![Captura 3](img/10.png)
 
 
 ## 4. Comprovo la connexió.
