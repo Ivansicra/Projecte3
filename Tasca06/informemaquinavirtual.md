@@ -7,36 +7,36 @@
 
 
 ## 3. Configuro IP i màscara.
-![Captura 3](img/3.png)
+![Captura 3](img/.png)
 
 
 ## 4. Comprovo la connexió.
-![Captura 4](img/4.png)
+![Captura 4](img/9.png)
 
 
 ## 5. Faig una consulta amb la comanda “dig”:
 
 5.1. Consulta bàsica de registre: “A”
-![Captura 5](img/5.png)
+![Captura 5](img/3.png)
 
 
 5.2. Consulta de servidor de noms: “NS”
-![Captura 6](img/6.png)
+![Captura 6](img/4.png)
 
 
 5.3. Consulta detallada: “SOA”
-![Captura 7](img/7.png)
+![Captura 7](img/5.png)
 
 
 5.4. Consulta resolució inversa.
-![Captura 8](img/8.png)
+![Captura 8](img/6.png)
 
 
 ## 6. Consulta no autoritativa.
-![Captura 9](img/9.png)
+![Captura 9](img/7.png)
 
 
 ## 7. Consulta autoritativa.
-![Captura 10](img/9.png)
+![Captura 10](img/8.png)
 
 La Principal diferencia entre una consulta no autoritativa i una consulta autoritativa, es que l’apartat de resposta “Non-authoritative answer” no apareix quan la consulta es autoritativa.
