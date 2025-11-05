@@ -48,27 +48,27 @@ Indica que quan s'elimini el paquet, també s’esborri la BD creada.
 
 Comprovo com s’ha modificat la informació de directori.
 
-![Captura 1](img/15.png)
+![Captura 1](img/16.png)
 
 Creo un nou arxiu “.ldif”.
 
-![Captura 1](img/16.png)
+![Captura 1](img/17.png)
 
 dins d’aquest arxiu escric el següent contingut i creo dos nous objectes, 2groups” i “users”.
 
-![Captura 1](img/17.png)
+![Captura 1](img/18.png)
 
 Declaro els dos nous objectes al directori que acabo de crear amb l’ajuda de l’eina “ldapadd”.
 
-![Captura 1](img/18.png)
+![Captura 1](img/19.png)
 
 Mitjançant la comanda “ldapsearch” comprovo que els objectes s’han creat correctament dins del directori.
 
-![Captura 1](img/19.png)
+![Captura 1](img/20.png)
 
 Instalar LDAP account manager amb aquesta comanda:
 
-![Captura 1](img/20.png)
+![Captura 1](img/21.png)
 
 Edito el arxiu netplan i configuro la ip, posaré dhcp en activat per a que crei una ip de forma automatica.
 
