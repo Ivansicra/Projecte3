@@ -72,31 +72,31 @@ Instalar LDAP account manager amb aquesta comanda:
 
 Edito el arxiu netplan i configuro la ip, posaré dhcp en activat per a que crei una ip de forma automatica.
 
-![Captura 1](img/21.png)
+![Captura 1](img/22.png)
 
 Aplico els canvis que he fet en el document de netplan.
 
-![Captura 1](img/22.png)
+![Captura 1](img/23.png)
 
 Comprovo quina ip automatica m’ha creat el sistema mitjançant la comanda “ip a”.
 
-![Captura 1](img/23.png)
+![Captura 1](img/24.png)
 
 Obro “192.168.56.101/lam” premo TAB i obrira una pantalla de control de LDAP Account Manager.
 
-![Captura 1](img/24.png)
+![Captura 1](img/25.png)
 
 configuro la meva contraseña: lam.
 
-![Captura 1](img/25.png)
+![Captura 1](img/26.png)
 
 Un cop dins em trobaré aquesta pantalla de configuració.
 
-![Captura 1](img/26.png)
+![Captura 1](img/27.png)
 
 Dins de la pàgina de configuració anterior cambio el idioma.
 
-![Captura 1](img/27.png)
+![Captura 1](img/28.png)
 
 Configuro l’usuari d’administrador.
 
