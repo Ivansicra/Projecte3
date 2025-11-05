@@ -120,9 +120,9 @@ Afegeixo un usuari de Unix a l'usuari prèviament creat.
 
 Configuro una contrasenya al usuari.
 
-![Captura 1](img/34.png)
+![Captura 1](img/36.png)
 
 Faig click a “save” i guardo l’usuari.
 
-![Captura 1](img/35.png)
+![Captura 1](img/37.png)
 
