@@ -4,7 +4,7 @@ La investigació interna ha revelat que un dels comptes tècnics va ser comprom�
 Com a resposta a aquesta crisi, la Direcció Tècnica ha emès una directriu: tot el personal tècnic ha de començar a utilitzar un gestor de contrasenyes validat per garantir l'ús de credencials úniques i robustes. Se us encarrega la tasca d'avaluar les opcions i crear la documentació necessària per a la formació del personal.
 
 
-# Fase 1: Anàlisi i Justificació (Document d'Informe)
+## Fase 1: Anàlisi i Justificació (Document d'Informe)
 Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. Aquest informe ha d'incloure:
 Introducció i Justificació:
 Explicació de per què les contrasenyes febles o reutilitzades són un risc crític per a l'empresa (atac de diccionari, credential stuffing, etc.).
@@ -16,7 +16,7 @@ Avantatges i Inconvenients: Resumiu els principals pros i contres de cada model 
 Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 
 
-# Fase 2: Guia d'Ús Tècnica (Manual Operatiu / Guia)
+## Fase 2: Guia d'Ús Tècnica (Manual Operatiu / Guia)
 Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o similar), heu de crear una Guia d'Ús per a l'Equip Tècnic. Aquesta guia ha de ser clara i basada en captures de pantalla i instruccions pas a pas.
 La guia ha de cobrir els següents punts obligatoris:
 Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
