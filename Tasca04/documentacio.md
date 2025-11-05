@@ -100,29 +100,29 @@ Dins de la pàgina de configuració anterior cambio el idioma.
 
 Configuro l’usuari d’administrador.
 
-![Captura 1](img/28.png)
+![Captura 1](img/29.png)
 
 Vaig a l’apartat de “Acoount types” dins de la pantalla de configuració anterior i cambio el sou dels users i groups.
 
-![Captura 1](img/29.png)
+![Captura 1](img/30.png)
 
 Creo un grup.
 
-![Captura 1](img/30.png)
+![Captura 1](img/31.png)
 
 Creo un usuari
 
-![Captura 1](img/31.png)
+![Captura 1](img/32.png)
 
 Afegeixo un usuari de Unix a l'usuari prèviament creat.
 
-![Captura 1](img/32.png)
+![Captura 1](img/33.png)
 
 Configuro una contrasenya al usuari.
 
-![Captura 1](img/33.png)
+![Captura 1](img/34.png)
 
 Faig click a “save” i guardo l’usuari.
 
-![Captura 1](img/34.png)
+![Captura 1](img/35.png)
 
