@@ -130,15 +130,15 @@ Creo la maquina client en Zorin i poso dos adaptadors de xarxa, el NAT i el Host
 
 ![Captura 1](img/101.png)
 
-33. Creo una snapshot de la maquina.
+Creo una snapshot de la maquina.
 
 ![Captura 1](img/102.png)
 
-34. Edito la configuració de l’arxiu de Hosts
+Edito la configuració de l’arxiu de Hosts
 
 ![Captura 1](img/103.png)
 
-35. Configuro el ldap amb la comanda: “ sudo apt install libnss-ldap libpam-ldap ldap-utils nscd -y”.
+Configuro el ldap amb la comanda: “ sudo apt install libnss-ldap libpam-ldap ldap-utils nscd -y”.
 
 ![Captura 1](img/104.png)
 ![Captura 1](img/105.png)
@@ -146,26 +146,26 @@ Creo la maquina client en Zorin i poso dos adaptadors de xarxa, el NAT i el Host
 ![Captura 1](img/107.png)
 ![Captura 1](img/108.png)
 
-36. Comprovo la connexió.
-
-![Captura 1](img/109.png)
-
-37. Configuro l’arxiu “nsswitch.conf”.
-
-![Captura 1](img/110.png)
-
-38. Configuro l’arxiu /etc/pam.d/common-password.
+Comprovo la connexió.
 
 ![Captura 1](img/111.png)
 
-39. configuro l’arxiu /etc/pam.d/common-session.
+Configuro l’arxiu “nsswitch.conf”.
+
+![Captura 1](img/110.png)
+
+Configuro l’arxiu /etc/pam.d/common-password.
 
 ![Captura 1](img/112.png)
 
-40. Reinicio el servei
+configuro l’arxiu /etc/pam.d/common-session.
 
 ![Captura 1](img/113.png)
 
-41. Configuro l’arxiu /etc/pam.d/gdm-launch-environment.
+Reinicio el servei
+
+![Captura 1](img/115.png)
+
+Configuro l’arxiu /etc/pam.d/gdm-launch-environment.
 
 ![Captura 1](img/114.png)
