@@ -1,6 +1,5 @@
 ## Codi:
 
-
 acl "trusted" {
 	192.168.4.0/24;
 	localhost;
